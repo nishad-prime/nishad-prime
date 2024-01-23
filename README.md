@@ -2,11 +2,13 @@
 <h4 align="center">Currently The Lead Developer of Egitsoft</h4>
 <hr>
 <h4 align="center">Biographical Information</h4>
+
 - 🔭 I’m currently working on IoT, Embedded, and many other private projects for Egitsoft
 - 🌱 I’m currently having a great time at Egitsoft and I'm also learning a lot of things
 - 💬 Ask me about any problems that you are having with your projects. I'm the lead programmer of my team. Thus I have developers in all fields of development
 - 📫 You can reach me by mailing at nasir@egitsoft.com
 - ⚡ Facts about me: I'm also a game engine and game developer who has played and finished hundreds of games
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=nishad-prime&label=Profile%20views&color=0e75b6&style=flat" alt="nishad-prime" /> </p>
 
 <h4 align="center">Languages and Tools</h4>
