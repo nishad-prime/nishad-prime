@@ -9,7 +9,7 @@
 - 🌱 I’m currently teaching and building a group of developers to make Egitsoft more powerful as a software development company
 - 📫 You can reach me by mailing at nasir@egitsoft.com
 
-<h4 align="center">My fields of expertise</h4>
+<h4 align="center">My Fields of Expertise</h4>
 
   - Game and Game Engine Development
   - Web Design and Developmenet
